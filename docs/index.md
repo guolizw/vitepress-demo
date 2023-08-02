@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 查看我的随笔
-      link: /guide/what-is-vitepress
+      link: /diary/index
     - theme: alt
       text: About me
-      link: https://github.com/vuejs/vitepress
+      link: /about/index
 
 features:
   - icon: {
